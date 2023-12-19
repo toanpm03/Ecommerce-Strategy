@@ -1,6 +1,6 @@
 # MindMastery Marketer
 
-•	Determined market size, growth rate, segments, segment size, characteristics of online marketing course.
+•	Determined market size, growth rate, segments, segment size, characteristics of online marketing courses.
 
 •	Conducted customer personas and identified product characteristics, USP, and comprehensive SWOT analysis.
 
