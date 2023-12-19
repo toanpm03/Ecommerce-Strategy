@@ -1,9 +1,9 @@
-# Oatmeal-Business-Plan
+# Email Automation Marketing
 
-•	Determined market size, growth rate, segments, segment size, characteristics of oats.
+•	Determined market size, growth rate, segments, segment size, characteristics of online marketing course.
 
-•	Conducted customer personas: demographic, needs, behavior, motivation, pain points, and customer insight.
+•	Conducted customer personas and identified product characteristics, USP, and comprehensive SWOT analysis.
 
-•	Identified product characteristics, unique selling points (USP), and performed comprehensive SWOT analysis.
+•	Implemented 3 email marketing for each stage: raise awareness, push interest and call to action.
 
-•	Evaluated investment effectiveness and built digital marketing strategies for the brand.
+•	Analyzed the effectiveness of email marketing and proposed solutions
