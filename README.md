@@ -6,4 +6,4 @@
 
 •	Implemented 3 marketing emails on Streak CRM for each stage: raise awareness, push interest and call to action.
 
-•	Analyzed the effectiveness of the email marketing strategy using Learn Press, Google Analytics and proposed solutions
+•	Results: Average email open rate is 44.6%, average email click-through rate is 16.9%, average bounce rate is 1.7%
