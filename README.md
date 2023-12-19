@@ -1,4 +1,4 @@
-# Email Marketing Automation
+# MindMastery Marketer
 
 •	Determined market size, growth rate, segments, segment size, characteristics of online marketing course.
 
