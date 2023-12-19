@@ -4,6 +4,6 @@
 
 •	Conducted customer personas and identified product characteristics, USP, and comprehensive SWOT analysis.
 
-•	Implemented 3 email marketing for each stage: raise awareness, push interest and call to action.
+•	Implemented 3 email marketing on Streak CRM for each stage: raise awareness, push interest and call to action
 
-•	Analyzed the effectiveness of email marketing and proposed solutions
+•	Analyzed the effectiveness of email marketing using Learn Press, Google Analytics and proposed solutions
